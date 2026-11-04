@@ -4,4 +4,3 @@ services:
     env: static
     staticPublishPath: .
     buildCommand: ""
-    pullRequestPreviewsEnabled: false
