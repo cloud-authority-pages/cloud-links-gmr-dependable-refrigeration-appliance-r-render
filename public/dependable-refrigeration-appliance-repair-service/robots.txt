@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cloud-links-gmr-dependable-refrigeration.onrender.com/sitemap.xml
+Sitemap: https://cloud-links-gmr-dependable-refrigeration.onrender.com/dependable-refrigeration-appliance-repair-service/sitemap.xml
