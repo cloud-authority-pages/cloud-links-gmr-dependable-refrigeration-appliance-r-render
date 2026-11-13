@@ -2,6 +2,6 @@ services:
   - type: web
     name: cloud-links-gmr-dependable-refrigeration-appliance-r
     env: static
-    staticPublishPath: .
+    staticPublishPath: public
     buildCommand: ""
     pullRequestPreviewsEnabled: false
